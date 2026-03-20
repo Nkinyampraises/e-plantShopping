@@ -2,17 +2,17 @@
 
 Welcome to **Paradise Nursery**, a high-performance React application designed for plant enthusiasts. This project serves as a comprehensive e-commerce platform that allows users to explore, select, and manage a diverse collection of indoor and outdoor plants.
 
-## 🌿 Project Mission
+##  Project Mission
 At Paradise Nursery, we believe that "Green Meets Serenity." Our mission is to provide high-quality, air-purifying, and aromatic plants to help our customers create their own indoor oasis.
 
 ---
 
-## 🚀 Live Application
+##  Live Application
 **Check out the live store here:** [https://Nkinyampraises.github.io/e-plantShopping/](https://Nkinyampraises.github.io/e-plantShopping/)
 
 ---
 
-## ✨ Features & Functionalities
+## Features & Functionalities
 
 ### 1. Landing Page (App.jsx & App.css)
 * **Immersive Experience:** Features a lush, full-screen background image defined in `App.css`.
